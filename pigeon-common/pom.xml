@@ -60,13 +60,17 @@
             <artifactId>spring-core</artifactId>
             <optional>true</optional>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.facebook.swift/swift-annotations -->
         <dependency>
             <groupId>com.facebook.swift</groupId>
             <artifactId>swift-annotations</artifactId>
+            <version>0.16.0</version>
         </dependency>
+
         <dependency>
             <groupId>com.facebook.swift</groupId>
             <artifactId>swift-codec</artifactId>
+            <version>0.16.0</version>
         </dependency>
         <dependency>
             <groupId>org.xerial.snappy</groupId>
